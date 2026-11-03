@@ -1,6 +1,6 @@
 # EDGE-DETECTION
 # MANASA S
-# 212224220059
+## 212224220059
 ## Aim
 
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
